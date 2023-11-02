@@ -1,0 +1,233 @@
+body{
+    font-family: 'Inika', serif;
+    font-family: 'Inter', sans-serif;
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+.wrapper{
+    max-width: 1440px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+header{
+    height: 134px;
+    background-color: #EDF2EC;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+
+.content{
+    max-width: 1220px;
+    max-height: 50px;
+    width: 100%;
+    margin: 0 auto;
+    
+}
+
+.logo{
+    height: 50px;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+}
+
+.buttons{
+    width: 1220px;
+    height: 50px;
+    font-family: inika;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.btn_position{
+    width: 610px;
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+    
+
+
+
+.plant{
+    font-family: inika;
+}
+
+img{
+    align-self: center
+}
+
+.Home{
+    text-decoration: none;
+    color: #010201;
+}
+
+.Home:hover{
+    color: #E06733;
+}
+
+.About_us{
+    text-decoration: none;
+    color: #010201;
+}
+
+.About_us:hover{
+    color: #E06733;
+}
+
+.Service{
+    text-decoration: none;
+    color: #010201;
+}
+
+.Service:hover{
+    color: #E06733;
+}
+
+.Price{
+    text-decoration: none;
+    color: #010201;
+}
+
+.Price:hover{
+    color: #E06733;
+}
+
+.Contacts{
+    text-decoration: none;
+    color: #010201;
+}
+
+.Contacts:hover{
+    color: #E06733;
+}
+
+main{
+    width: 1440px;
+    height: 1198px;
+    background-color: #EDF2EC;
+    display: flex;
+    flex-wrap: wrap;
+} 
+
+.collect{
+    max-width: 1220px;
+    max-height: 407.36px;
+    width: 100%;
+    height: 100%;
+    margin: 0 auto;
+}
+
+.info{
+    max-width: 1222px;
+    max-height: 407.36px;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+   
+    
+    
+}
+
+.info_photo{
+    width: 448.8px;
+    height: 407.36px;
+    display: flex-start;
+    
+}
+
+
+
+
+
+h1{
+    width: 549px;
+    height: 101px;
+    font-size: 45px;
+    font-weight: 700;
+    line-height: 50px;
+    font-family: Inter;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: left;
+    
+    
+    
+}
+
+p{
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 35px;
+    letter-spacing: 0em;
+    text-align: left;
+
+
+}
+
+
+.Lorem{
+    font-family: Inter;
+    color: #636060;
+    display: flex;
+    justify-content: right;
+    align-items: end;
+
+
+}
+
+.more{
+    width: 158px;
+    height: 44px;
+    border-radius: 10px;
+    border: 2px solid #E06733;
+    display: flex;
+   
+
+}
+
+.main_par{
+    width: 611px;
+    height: 407.36px;
+    display: flex;
+    justify-content: end;
+    
+    
+}
+
+.plantscolors{
+    color: green;
+}
+
+.learnmore{
+
+    width: 158px;
+    height: 44px;
+    border-radius: 10px;
+    border: 2px solid #E06733;
+    cursor: pointer;
+
+}
+
+.learnmore:hover{
+    background-color: #E06733;
+}
+
+.into_main{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+
